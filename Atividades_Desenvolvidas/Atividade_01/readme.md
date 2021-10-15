@@ -9,3 +9,9 @@
 * Total de pontos por função mapeados 28
 
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_01/gabarito.png)
+
+
+## Régua
+### Tabela usada para esta atividade apenas para ALI e para AIE
+
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_01/Regua01.png)
