@@ -5,6 +5,7 @@
 
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_01/der-vendas.png)
 
+## Contando arquivos lógicos internos.
 
 ### Gabarito de contagem de pontos por função
 
