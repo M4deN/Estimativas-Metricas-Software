@@ -14,5 +14,32 @@ CREATE TABLE Clientes(
   celular VARCHAR(20)
   fax VARCHAR(20)
   dataNasc DATE
-       )
+   );
+     
+  CREATE TABLE Vendas(
+    Codigo INT
+    nf INT 
+    valortotal FLOAT(10)
+    desconto FLOAT(10)
+    icms INT
+    pago BIT(1)
+    CodigoCliente INT PRIMARY KEY
+    );
+    CREATE TABLE Itens(
+      codigo INT
+      quantidade INT
+      codigovenda INT PRIMARY KEY
+      codProduto INT
+      );
+     
+     Create Table Produtos(
+       codigo INT
+       descricao VARCHAR(10)
+       unidade VARCHAR(10)
+       quantidade INT
+       estminimo INT
+       vcompra FLOAT(10)
+       vvenda FLOAT(10)
+       lucro FLOAT(10)
+       );
   
