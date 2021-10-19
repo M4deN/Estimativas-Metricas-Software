@@ -10,3 +10,11 @@ No vídeo anterior você teve contato com um exemplo de uma aplicação que mani
 Não é permitido descrever aqui o exemplo apresentado no vídeo anterior.
 
 R: Exemplo Aplicativo Mercado Livre, Arquivos de Interface Externa Usuários
+
+
+### Parte 3
+
+No vídeo apresentado abaixo, iremos visitar novamente o conceito de Arquivo de Interface Externa. Também iremos apresentar o mapeamento da complexidade de um AIE.
+Assista o vídeo abaixo com atenção.
+
+[![Watch the video](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Aulas/Aula02%20-%20Definindo%20o%20que%20%C3%A9%20um%20Arquivo%20de%20Interface%20Externa%20(AIE)/img2.png)](https://www.youtube.com/watch?v=ZOnnrMWIqkc)
