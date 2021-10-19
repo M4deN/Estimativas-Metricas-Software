@@ -3,3 +3,10 @@ No tópico anterior do curso, mapeamos a complexidades dos Arquivos Lógicos Int
 Arquivos de Interface Externa (AIE). Nosso primeiro passo é entender o conceito de um Arquivo de Interface Externa. Para isto gostaria que você fizesse a leitura do vídeo abaixo.
 
 [![Watch the video](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Aulas/Aula02%20-%20Definindo%20o%20que%20%C3%A9%20um%20Arquivo%20de%20Interface%20Externa%20(AIE)/img.png)](https://www.youtube.com/watch?v=4TAGPgPJD6w)
+
+### Parte 2
+
+No vídeo anterior você teve contato com um exemplo de uma aplicação que manipulava 2 Arquivos de Interface Externa. Nesta atividade gostaria que você apresentasse um exemplo de um software ou aplicação que manipule Arquivos de Interface Externa. Na descrição cite apenas o nome do software e nome do arquivo.
+Não é permitido descrever aqui o exemplo apresentado no vídeo anterior.
+
+R: Exemplo Aplicativo Mercado Livre, Arquivos de Interface Externa Usuários
