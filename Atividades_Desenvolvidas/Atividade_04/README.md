@@ -11,4 +11,4 @@
 
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_04/gab.png)
 
-Total mapeado: 9 pontos por função
+Total mapeado: 7 pontos por função
