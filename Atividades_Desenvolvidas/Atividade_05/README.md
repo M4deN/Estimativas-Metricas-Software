@@ -28,3 +28,8 @@ Gabarito Contagem ALIs
 
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_05/gab1.png)
 
+Gabarito Contagem IEs
+
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_05/gabIE.png)
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_05/gabIE2.png)
+
