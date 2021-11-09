@@ -14,21 +14,21 @@ b) as entradas de dados - Importante: as entradas estão mapeadas em amarelo no 
 Para realizar a contagem, realize o download do gabarito de contagem (em anexo também).
 Após o preenchimento do gabarito de contagem, poste-o nesta atividade.
 
-###DFD
+### DFD
 
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_05/dfd.png)
 
 
-DER
+### DER
 
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_05/banco.png)
 
 
-Gabarito Contagem ALIs
+### Gabarito Contagem ALIs
 
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_05/gab1.png)
 
-Gabarito Contagem IEs
+### Gabarito Contagem IEs
 
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_05/gabIE.png)
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_05/gabIE2.png)
