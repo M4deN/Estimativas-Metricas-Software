@@ -24,3 +24,7 @@ Uma excelente semana para todos vocês.
 
 ### DER
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/DER.png)
+
+### DFD
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/DEFD.png)
+
