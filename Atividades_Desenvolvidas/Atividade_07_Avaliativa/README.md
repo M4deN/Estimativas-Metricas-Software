@@ -28,3 +28,10 @@ Uma excelente semana para todos vocês.
 ### DFD
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/DFD.png)
 
+Gabarito ALI
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/ALI.png)
+
+### DGabarito IE
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/IE.png)
+
+
