@@ -31,7 +31,7 @@ Uma excelente semana para todos vocês.
 Gabarito ALI
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/ALI.png)
 
-### DGabarito IE
+### Gabarito IE
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/IE.png)
 
 
