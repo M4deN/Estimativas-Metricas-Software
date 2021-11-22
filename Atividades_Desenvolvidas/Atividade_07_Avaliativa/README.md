@@ -20,3 +20,7 @@ Quanto tempo a empresa levaria para implementar o software?
 Para realizar o mapeamento dos pontos por função faça o download do gabarito de de contagem em anexo. Preencha o gabarito. Responda as questões no próprio gabarito. Gere um arquivo PDF e faça a postagem nesse ambiente.
 
 Uma excelente semana para todos vocês.
+
+
+### DER
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/DER.png)
