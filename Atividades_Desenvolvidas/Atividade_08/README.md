@@ -20,4 +20,4 @@ Para realizar a contagem, realize o download do gabarito de contagem (em anexo t
 
 
 ### OE
-![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_08/OE.png)
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_08/OEpng.png)
