@@ -16,7 +16,7 @@ Para realizar a contagem, realize o download do gabarito de contagem (em anexo t
 
 
 ### ALI
-![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_08/DER.png)
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_08/ALI.png)
 
 
 ### OE
