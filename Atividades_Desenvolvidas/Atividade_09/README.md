@@ -10,5 +10,8 @@ Abaixo você encontra 3 documentos (plantas de software):
 
 De posse destes documentos e de posse de nossa régua. Realize a contagem de pontos por função. Faça a contagem utilizando nosso gabarito.
 
+### DER
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_09/DER.png)
 
-![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_08/DER.png)
+### DER
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_09/DFD.png)
