@@ -34,6 +34,8 @@ Uma excelente semana para todos vocês.
 ### Gabarito IE
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/IE.png)
 
+Continuando o calculo: Total de pontos por função 59, então temos 59 pontos por função * 63 minutos = 3717
+3717/60 = 61 horas Valor em reais 7768,00
 ### NOTA
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/nota.png)
 
