@@ -34,4 +34,7 @@ Uma excelente semana para todos vocês.
 ### Gabarito IE
 ![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/IE.png)
 
+### NOTA
+![Começo](https://github.com/AlexDeSaran/Estimativas-Metricas-Software/blob/main/Atividades_Desenvolvidas/Atividade_07_Avaliativa/nota.png)
+
 
